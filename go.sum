@@ -4,3 +4,5 @@ github.com/abhilashmendhe/puppy v0.0.0-20231204141225-b789b21e3814 h1:3FzsTvpWOm
 github.com/abhilashmendhe/puppy v0.0.0-20231204141225-b789b21e3814/go.mod h1:yv2Zvit4ys6ZgBudHaYk8+RlMwwvcevLA1FbjGetnYs=
 github.com/abhilashmendhe/puppy v0.0.0-20231204142415-aa09e18eef3f h1:WujXArDmvoJK7mV/HNyUPAkB8EvY4Okp4rWUJo2W/Xc=
 github.com/abhilashmendhe/puppy v0.0.0-20231204142415-aa09e18eef3f/go.mod h1:DfzEUvv8pvUQH+kJfBu0TBk5SBcinPa5e9Ba5rods8A=
+golang.org/x/crypto v0.17.0 h1:r8bRNjWL3GshPW3gkd+RpvzWrZAwPS49OmTGZ/uhM4k=
+golang.org/x/crypto v0.17.0/go.mod h1:gCAAfMLgwOJRpTjQ2zCCt2OcSfYMTeZVSRtQlPC7Nq4=
