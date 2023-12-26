@@ -1,0 +1,12 @@
+package main
+
+import "fmt"
+
+func main() {
+	// cr := make(<-chan int) // thic is only recieve only channel
+	cr := make(chan int)
+	go func() {
+		cr <- 42
+	}()
+	fmt.Println(<-cr)
+}
